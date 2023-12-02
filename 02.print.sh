@@ -7,6 +7,7 @@ echo hello world
 # blue 34
 # magenta 35
 # cyan 36
+# white 37
 
 # Syntax
 # echo -e "\e[colourcodemMessage\e[0m"
