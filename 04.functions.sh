@@ -5,7 +5,6 @@ greetings(){
   }
 greetings
 
-echo Function Exit Status - $?
 
 # Function with Return Status
 return(){
