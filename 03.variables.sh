@@ -19,7 +19,7 @@ echo $a or echo ${a} is a
   echo ADD 0f 2+2 = ${ADD}
 
 # Access environment variables
- echo Username - $user
+ echo Username - $USER
  echo Env var abc - $abc
 
 # export abc=100 from CLI can make this variable printed
